@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.197.210:9980/mithuntechnologies/repository/flipkart-release/</url>
+	      <url>http://18.188.54.21:8081/repository/Lotus-release//</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.197.210:9980/mithuntechnologies/repository/flipkart-snapshot/</url>
+	      <url>http://18.188.54.21:8081/repository/Lotus-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
