@@ -95,7 +95,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.188.54.21:8081/repository/Lotus-snapshot/</url>
+	      <url>http://ec2-18-191-216-198.us-east-2.compute.amazonaws.com:8081/repository/Lotus-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
