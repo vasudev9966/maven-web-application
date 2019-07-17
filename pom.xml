@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.208.49:8081/repository/Lotus-release/</url>
+	      <url>http://13.127.81.188:8081/repository/Lotus-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.208.49:8081/repository/Lotus-snapshot/</url>
+	      <url>http://13.127.81.188:8081/repository/Lotus-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
